@@ -42,7 +42,12 @@
     margin-bottom: 50%;
     box-shadow: 10px 10px 10px lightgray;
 }
+.pale{
+    width: 300px;
+    margin-top: 100px ;
+}
 footer{
   text-align: center;
     color: dimgray;
+    font-size: small;
 }
