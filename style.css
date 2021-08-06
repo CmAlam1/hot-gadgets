@@ -1,3 +1,11 @@
 .container{
     margin-top: 5px;
 }
+.buy-now-button{
+    border: none;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    height: 38px;
+    width: 115px;
+}
