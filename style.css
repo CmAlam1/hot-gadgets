@@ -8,4 +8,41 @@
     color: white;
     height: 38px;
     width: 115px;
+    align-items: center;
+}
+.bd-highlight{
+    margin-top: 30px;
+}
+#see{
+    color: rgb(255, 217, 0);
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 10px lightgray;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.card-footer{
+    border-top: none;
+    
+}
+.price{
+   margin-left: 20px;
+}
+.laptop{
+    margin-top: 100px;
+}
+.categories{
+    margin-top: 170px;
+    text-align: center;
+}
+.cartoon{
+    width: 55%;
+    margin-top: 50%;
+    margin-bottom: 50%;
+    box-shadow: 10px 10px 10px lightgray;
+}
+footer{
+  text-align: center;
+    color: dimgray;
 }
